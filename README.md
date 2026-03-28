@@ -1,4 +1,4 @@
-> Terminal-based real-time chat — Python, sockets, and SQLite. Nothing else.
+> Terminal-based real-time chat : Python, sockets, and SQLite. Nothing else.
 
 ---
 
